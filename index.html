@@ -12,46 +12,45 @@
     <main>
       <h1>Quick Tip</h1>
       <section>
-        <form action="">
-          <label for=""
-            >Bill
-            <input type="number" name="bill_value" id="bill_value" />
-          </label>
-          <label for=""
-            >Select Tip
-            <input
-              type="range"
-              min="0"
-              max="100"
-              value="0"
-              step="5"
-              id="tip_value"
-            />
-            <span>%</span>
-          </label>
-        </form>
-        <div>
+        <label for=""
+          >Bill
+          <input type="number" name="bill_value" id="bill_value" />
+        </label>
+        <label for="" class="left"
+          >Select Tip
+          <input
+            type="range"
+            min="0"
+            max="100"
+            value="0"
+            step="5"
+            id="tip_value"
+          />
+          <span id="tip_percentage">%</span>
+        </label>
+
+        <div class="left">
           <span>Tip</span>
-          <span>$</span>
+          <span id="tip_value">$</span>
         </div>
-        <div>
+        <div class="left">
           <span>Total</span>
-          <span>$</span>
+          <span id="tip_value_total">$</span>
         </div>
       </section>
       <section>
-        <label for=""
-          >Select Tip
+        <label for="" class="left"
+          >Split
           <input type="range" min="1" max="10" value="1" step="1" id="people" />
-          <span>people</span>
+          <span id="number_of_people">people</span>
         </label>
-        <div>
+        <div class="left">
           <span>Bill Each</span>
-          <span>$</span>
+          <span id="bill_for_people">$</span>
         </div>
-        <div>
+        <div class="left">
           <span>Tip each</span>
-          <span>$</span>
+          <span id="tip_for_people">$</span>
         </div>
       </section>
     </main>
