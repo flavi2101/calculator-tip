@@ -1,14 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="./index.js" defer></script>
-</head>
-<body>
-
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="./index.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <h1>Quick Tip</h1>
+      <section>
+        <form action="">
+          <label for=""
+            >Bill
+            <input type="number" name="bill_value" id="bill_value" />
+          </label>
+          <label for=""
+            >Select Tip
+            <input
+              type="range"
+              min="0"
+              max="100"
+              value="0"
+              step="5"
+              id="tip_value"
+            />
+            <span>%</span>
+          </label>
+        </form>
+        <div>
+          <span>Tip</span>
+          <span>$</span>
+        </div>
+        <div>
+          <span>Total</span>
+          <span>$</span>
+        </div>
+      </section>
+      <section>
+        <label for=""
+          >Select Tip
+          <input type="range" min="1" max="10" value="1" step="1" id="people" />
+          <span>people</span>
+        </label>
+        <div>
+          <span>Bill Each</span>
+          <span>$</span>
+        </div>
+        <div>
+          <span>Tip each</span>
+          <span>$</span>
+        </div>
+      </section>
+    </main>
+  </body>
 </html>
