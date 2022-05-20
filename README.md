@@ -1,6 +1,6 @@
 # CALCULATOR-TIP
 
-[![NPM](https://github.com/flavi2101/calculator-tip/blob/master/LICENSE) 
+[![NPM](https://github.com/flavi2101/calculator-tip/blob/master/LICENSE)
 
 ## Sobre o projeto
 
