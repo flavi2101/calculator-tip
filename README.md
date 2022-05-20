@@ -1,6 +1,6 @@
 # CALCULATOR-TIP
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/flavi2101/todo-app/blob/main/LICENSE) 
+[![NPM](https://github.com/flavi2101/calculator-tip/blob/master/LICENSE) 
 
 ## Sobre o projeto
 
@@ -33,26 +33,25 @@ Utilizar valores gerados dentro de funções especificas, onde repassa-los atrav
 ### screenshot
 
 ### Layout mobile light
-![Mobile 1](https://github.com/flavi2101/todo-app/blob/main/assets/design/mobile-design-light.jpg)
+![Mobile 1](https://github.com/flavi2101/calculator-tip/blob/master/screenshots/mobile-light-mode.PNG)
 
 
 ### Layout mobile dark
-![Mobile 2](https://github.com/flavi2101/todo-app/blob/main/assets/design/mobile-design-dark.jpg)
+![Mobile 2](https://github.com/flavi2101/calculator-tip/blob/master/screenshots/mobile-dark-mode.PNG)
 
 
 ### Layout web light
-![Web 1](https://github.com/flavi2101/todo-app/blob/main/assets/design/desktop-design-light.jpg)
+![Web 1](https://github.com/flavi2101/calculator-tip/blob/master/screenshots/desktop-light-mode.PNG)
 
 ### Layout web dark
-![Web 1](https://github.com/flavi2101/todo-app/blob/main/assets/design/desktop-design-dark.jpg)
+![Web 1](https://github.com/flavi2101/calculator-tip/blob/master/screenshots/desktop-dark-mode.PNG)
 
 ### Links
 
-[-Solução URL](https://github.com/flavi2101/todo-app)
+[-Solução URL](https://github.com/flavi2101/calculator-tip)
 
-[-site URL](https://flavi2101.github.io/todo-app/)
+[-site URL](https://flavi2101.github.io/calculator-tip/)
 
-[-Desafio URL](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW/hub/todo-app-Skju0SiS5)
 
 ## Processo
 
