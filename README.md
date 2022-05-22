@@ -1,6 +1,6 @@
 # CALCULATOR-TIP
 
-[![NPM](https://github.com/flavi2101/calculator-tip/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/flavi2101/calculator-tip/blob/master/LICENSE)
 
 ## Sobre o projeto
 
